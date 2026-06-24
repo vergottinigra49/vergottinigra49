@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Graciela Bergotini 👋
 
-<!--
-**vergottinigra49/vergottinigra49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 77 años, he vivido intensamente y sigo aprendiendo día a día. Creo firmemente que el conocimiento y la curiosidad no tienen edad. Soy **Licenciada en Administración Pública** y actualmente estoy expandiendo mis horizontes combinando la gestión, el arte y la tecnología.
 
-Here are some ideas to get you started:
+Además de la informática, me apasionan la **pintura** y la **costura**, actividades donde encuentro un espacio ideal para el diseño, la paciencia y la creatividad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Formación y Estudios Actuales
+- **Tecnicatura Superior en Análisis de Sistemas** | Instituto de Formación Técnica Superior N° 21 (IFTS 21).
+- **Técnica Programadora** | Centro de Formación Profesional N° 11 (CFP N° 11) - *¡Próxima a recibirme!*
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes de Programación:** Python
+- **Análisis de Datos:** Pandas
+- **Bases de Datos:** PostgreSQL / SQL
+- **Interfaces Gráficas:** PyQt6 (UI/UX para aplicaciones de escritorio)
+- **Gestión y Control de Versiones:** Git y GitHub
+
+### 📁 Proyectos Destacados
+- **[NetfloxPyDesk](https://github.com/vergottinigra49/netfloxpydesk):** Aplicación de escritorio interactiva con diseño dark moderno construida en Python utilizando PyQt6, conectada a una base de datos relacional en PostgreSQL mediante arquitectura de Sprints progresivos.
+
+### 🌟 Mi Filosofía
+> *"El aprendizaje es un viaje continuo que dura toda la vida. Cada línea de código, cada pincelada y cada costura son una nueva forma de seguir creando e interpretando el mundo."*
+
+---
+¡Gracias por visitar mi perfil! Si querés conocer más sobre mis proyectos o compartir ideas, no dudes en explorar mis repositorios. 😊
