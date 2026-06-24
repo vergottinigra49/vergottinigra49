@@ -1,5 +1,4 @@
-# ¡Hola! Soy Graciela Bergotini 👋
-
+# ¡Hola! Soy Graciela Vergottini
 Tengo 77 años, he vivido intensamente y sigo aprendiendo día a día. Creo firmemente que el conocimiento y la curiosidad no tienen edad. Soy **Licenciada en Administración Pública** y actualmente estoy expandiendo mis horizontes combinando la gestión, el arte y la tecnología.
 
 Además de la informática, me apasionan la **pintura** y la **costura**, actividades donde encuentro un espacio ideal para el diseño, la paciencia y la creatividad.
